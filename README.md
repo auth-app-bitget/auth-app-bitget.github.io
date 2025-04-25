@@ -1,1 +1,0 @@
-# auth-app-bitget.github.io
